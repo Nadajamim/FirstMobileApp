@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Inscription Formation</string>
+    <string name="hint_nom">Nom &amp; Prénom</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_phone">Phone</string>
+    <string name="hint_adresse">Adresse</string>
+    <string name="btn_envoyer">Envoyer</string>
+</resources>
